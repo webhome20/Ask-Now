@@ -1,6 +1,3 @@
-https://webhome20.github.io/Ask-Now/
-
-
 import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
