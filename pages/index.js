@@ -82,7 +82,7 @@ We don’t just make websites; we build an image of your company on the internet
 
 Impex Solutions’s greatest strength in web design is in its high quality visualization interface design for the web. The web design firm in India has several highly qualified graphic designers with years of experience developing website interfaces. It has always tried to steer clear of a ‘House Style’, rather providing designs that fit with a client’s identity and that are appropriate for their sector.
 
-All our Multimedia innovations stand out of the crowd, giving your company an edge over your competitors. Our multimedia studio uses high Graphics Computer & Audio systems assuring a time restrained bottom line reducing the web development cost significantly.
+All our Multimedia innovations stand out of thes crowd, giving your company an edge over your competitors. Our multimedia studio uses high Graphics Computer & Audio systems assuring a time restrained bottom line reducing the web development cost significantly.
 <h2>
 Web Development
 </h2>
