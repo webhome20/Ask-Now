@@ -6,13 +6,13 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>ASK NOW</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
+        <Header title="Contact AOL Customer Help & Service " />
+        <p className="AOL Phone Number +1-877-594-0810">
           Get started by editing <code>pages/index.js</code>
         </p>
       </main>
